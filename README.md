@@ -1,6 +1,5 @@
-# Knock-out-todo-crud 
+# Knock-out-todo-crud Application
 
-# Knock-out-todo-crud 
 
 A Simple Todo list Crud Application Built with Knockout Js and Bootstrap for Beginner level understanding
 
